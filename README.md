@@ -14,6 +14,9 @@ Simply use the search bar:
 * OpenWeatherMap API
 
 	> git clone https://github.com/debiasej/react-redux-weather-app.git
+	
 	> cd react-redux-weather-app
-	> npm install
+	
+	> npm instal
+	l
 	> npm start
