@@ -13,7 +13,7 @@ Simply use the search bar:
 * Google Maps API 
 * OpenWeatherMap API
 
-	> git clone https://github.com/debiasej/react-redux-weather-app.git
+	> git clone https://github.com/JaneHazen/WeatherFinder.git
 	
 	> cd react-redux-weather-app
 	
