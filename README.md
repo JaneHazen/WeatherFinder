@@ -9,4 +9,4 @@ Simply use the search bar:
 * Sparklines
 * Lodash
 * Google Maps API 
-* Weather API
+* OpenWeatherMap API
